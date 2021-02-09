@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49391133594",
+    "project_id": "favoritebook-fc134",
+    "storage_bucket": "favoritebook-fc134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49391133594:android:104c16cd505b79285cd023",
+        "android_client_info": {
+          "package_name": "com.devslopes.favoritebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49391133594-ua9goa6b22f9dkibfn49edcan9rqc7p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdluXcwxeEZ871YnvPVwpsIFnkw-huuuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49391133594-ua9goa6b22f9dkibfn49edcan9rqc7p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
